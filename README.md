@@ -35,7 +35,7 @@ L'application suit une architecture à trois couches :
 
 ### Backend
 - **Java 17+**
-- **Spring Boot 3.x**
+- **Spring Boot 3**
 - **Spring Security OAuth2 Resource Server**
 - **Spring Web**
 
@@ -45,7 +45,7 @@ L'application suit une architecture à trois couches :
 - **JavaScript (ES6+)**
 
 ### Sécurité & Authentification
-- **Keycloak 23.x**
+- **Keycloak 23**
 - **OAuth2**
 - **OpenID Connect**
 - **JWT (JSON Web Tokens)**
